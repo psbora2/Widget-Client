@@ -12,7 +12,7 @@ WidgetClient is a simple application, consuming the [WidgetApi](https://showoff-
 #### Signed In Users Can
 - Browse Widgets
 - Search Widgets
-- Visit other user profile
+- Visit other user's profile
 - Create/Edit/Delete own widgets
 
 ## Setting up the application
